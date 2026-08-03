@@ -2,11 +2,13 @@
 
 # 👋 Hi, I'm Prathip M
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+Engineer;Generative+AI+Developer;Python+%7C+SQL+%7C+Power+BI;Open+to+AI+Internships"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+%7C+Deep+Learning;Generative+AI+Enthusiast;Python+Developer+%7C+Data+Analytics;Open+to+AI+%26+Data+Science+Internships"/>
 
-<img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AI%20%26%20DS-Student-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Location-Tamil%20Nadu-orange?style=for-the-badge"/>
+<p>
+  <img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/B.Tech-AI%20%26%20Data%20Science-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Location-Tamil%20Nadu-orange?style=for-the-badge"/>
+</p>
 
 </div>
 
@@ -16,69 +18,70 @@
 
 🎓 **B.Tech Artificial Intelligence & Data Science**
 
-🏫 Er. Perumal Manimekalai College of Engineering
+🏫 **Er. Perumal Manimekalai College of Engineering**
 
-💡 Interested in
+I'm passionate about building intelligent systems using AI, Machine Learning, Deep Learning, Generative AI and Data Analytics.
 
-- Artificial Intelligence
-- Machine Learning
-- Generative AI
-- Prompt Engineering
-- Data Analytics
-- Android Development
+## 💡 Interests
 
-🎯 **Goal**
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 🔥 Deep Learning
+- ✨ Generative AI
+- 📊 Data Analytics
+- 💬 Prompt Engineering
+- 🐍 Python
+- 🗄️ SQL
 
-Become an AI Engineer by building real-world intelligent applications.
+## 🎯 Goal
+
+Become an AI Engineer by building impactful AI applications and securing an AI/Data Science internship.
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### 👨‍💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,mysql"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,mysql"/>
 </p>
 
-### Tools
+### 🛠️ Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
-### AI & Data
+<p align="center">
+  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+</p>
 
-<p>
+### 🤖 AI & Data Science
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Machine_Learning-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Generative_AI-purple?style=for-the-badge"/>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 </p>
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=m-prathip&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-prathip&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=m-prathip&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-prathip&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=m-prathip&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-prathip&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -86,19 +89,7 @@ Become an AI Engineer by building real-world intelligent applications.
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=m-prathip&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=m-prathip&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-prathip&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -106,45 +97,39 @@ Become an AI Engineer by building real-world intelligent applications.
 # 💻 LeetCode
 
 <p align="center">
-
-<img src="https://leetcard.jacoblin.cool/prathipm?theme=dark&font=Karma&ext=contest"/>
-
+  <img src="https://leetcard.jacoblin.cool/prathipm?theme=dark&font=Karma"/>
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 🎯 Current Focus
 
-| Project | Description |
-|---------|-------------|
-| 🌾 Farm Labour Management | Android application for labour attendance & analytics |
-| 🌐 Personal Portfolio | Modern portfolio website |
-| 📊 Sales Dashboard | Power BI Dashboard |
-| 🤖 Machine Learning | ML Algorithms |
-| 🧠 AI Experiments | Prompt Engineering & LLM |
+- Building AI & Machine Learning Projects
+- Deep Learning Models
+- Generative AI Applications
+- Prompt Engineering
+- Data Analytics with Power BI
+- Preparing for AI & Data Science Internships
+
+---
+
+# 📚 Currently Exploring
+
+- Large Language Models (LLMs)
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
+- Model Fine-tuning
+- MLOps Fundamentals
 
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
-
-<a href="https://portfolio-project-prathip.vercel.app/u/prathipm">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=vercel"/>
-</a>
-
-<a href="https://leetcode.com/u/prathipm/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prathip-m-883871399">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:prathip.muniraju@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"/>
-</a>
-
+  <a href="https://portfolio-project-prathip.vercel.app/u/prathipm"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/prathipm/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/prathip-m-883871399"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:prathip.muniraju@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -152,27 +137,15 @@ Become an AI Engineer by building real-world intelligent applications.
 # 👀 Profile Views
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=m-prathip&style=for-the-badge&color=58A6FF"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/m-prathip/m-prathip/output/github-contribution-grid-snake-dark.svg"/>
-
+  <img src="https://komarev.com/ghpvc/?username=m-prathip&style=for-the-badge&color=58A6FF"/>
 </p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for visiting my profile!
 
-*"Turning ideas into intelligent solutions with AI."*
+### 💙 Turning ideas into intelligent solutions with Artificial Intelligence.
 
 </div>
