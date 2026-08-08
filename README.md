@@ -1,8 +1,12 @@
 <div align="center">
 
-# 👋 Hi, I'm Prathip M
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Prathip%20M&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=AI%20and%20Data%20Science%20Engineer&descAlignY=58&descSize=20&descColor=B084F9"/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Data+Science+Student;Machine+Learning+%7C+Deep+Learning;Generative+AI+Enthusiast;Python+Developer+%7C+Data+Analytics;Open+to+AI+%26+Data+Science+Internships"/>
+
+<br/><br/>
 
 <p>
   <img src="https://img.shields.io/badge/Open%20To-Internships-success?style=for-the-badge"/>
@@ -10,19 +14,45 @@
   <img src="https://img.shields.io/badge/Location-Tamil%20Nadu-orange?style=for-the-badge"/>
 </p>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
 </div>
 
----
+<br/>
 
-# 🚀 About Me
+<div align="center">
+
+### 🚀 ABOUT ME
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="100%" align="center">
 
 🎓 **B.Tech Artificial Intelligence & Data Science**
-
+&nbsp;&nbsp;|&nbsp;&nbsp;
 🏫 **Er. Perumal Manimekalai College of Engineering**
+
+<br/>
 
 I'm passionate about building intelligent systems using AI, Machine Learning, Deep Learning, Generative AI and Data Analytics.
 
-## 💡 Interests
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+#### 💡 Interests
+
+</div>
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
@@ -33,47 +63,70 @@ I'm passionate about building intelligent systems using AI, Machine Learning, De
 - 🐍 Python
 - 🗄️ SQL
 
-## 🎯 Goal
+</td>
+<td width="50%" valign="top">
 
-Become an AI Engineer by building impactful AI applications and securing an AI/Data Science internship.
+<div align="center">
 
----
+#### 🎯 Goal
 
-# 💻 Tech Stack
+</div>
 
-### 👨‍💻 Languages
+<br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,mysql"/>
-</p>
+> Become an AI Engineer by building impactful AI applications and securing an AI/Data Science internship.
 
-### 🛠️ Tools & Platforms
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 
-### 🤖 AI & Data Science
+### 💻 TECH STACK
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-</p>
+</div>
 
----
+<div align="center">
 
-# 📊 GitHub Statistics
+**👨‍💻 Languages**
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+
+<br/><br/>
+
+**🛠️ Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black"/>
+<img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white"/>
+
+<br/><br/>
+
+**🤖 AI & Data Science**
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Generative%20AI-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+### 📊 GITHUB ANALYTICS
+
+</div>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=m-prathip&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -84,46 +137,88 @@ Become an AI Engineer by building impactful AI applications and securing an AI/D
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-prathip&theme=tokyonight&hide_border=true"/>
 </p>
 
----
+<div align="center">
 
-# 📈 Contribution Graph
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+### 📈 ACTIVITY
+
+</div>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=m-prathip&theme=tokyo-night&hide_border=true"/>
 </p>
 
----
+<div align="center">
 
-# 💻 LeetCode
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+### 💻 CODING — LEETCODE
+
+</div>
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/prathipm?theme=dark&font=Karma"/>
 </p>
 
----
+<div align="center">
 
-# 🎯 Current Focus
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+### 🎯 CURRENT FOCUS
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 - Building AI & Machine Learning Projects
 - Deep Learning Models
 - Generative AI Applications
+
+</td>
+<td width="50%" valign="top">
+
 - Prompt Engineering
 - Data Analytics with Power BI
 - Preparing for AI & Data Science Internships
 
----
+</td>
+</tr>
+</table>
 
-# 📚 Currently Exploring
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+### 📚 CURRENTLY EXPLORING
+
+</div>
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
 
 - Large Language Models (LLMs)
 - AI Agents
 - Retrieval-Augmented Generation (RAG)
+
+</td>
+<td width="50%" valign="top">
+
 - Model Fine-tuning
 - MLOps Fundamentals
 
----
+</td>
+</tr>
+</table>
 
-# 🌐 Connect With Me
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
+
+### 🌐 CONNECT WITH ME
 
 <p align="center">
   <a href="https://portfolio-project-prathip.vercel.app/u/prathipm"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
@@ -132,15 +227,13 @@ Become an AI Engineer by building impactful AI applications and securing an AI/D
   <a href="mailto:prathip.muniraju@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
----
+<br/>
 
-# 👀 Profile Views
+<img src="https://komarev.com/ghpvc/?username=m-prathip&style=for-the-badge&color=58A6FF"/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=m-prathip&style=for-the-badge&color=58A6FF"/>
-</p>
+</div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,50:302B63,100:0F0C29&height=150&section=footer"/>
 
 <div align="center">
 
