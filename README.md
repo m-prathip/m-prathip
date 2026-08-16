@@ -145,7 +145,7 @@ CSS &nbsp;|&nbsp;
 </p>
 
 <p align="center">
-<a href="https://portfolio-project-prathip.vercel.app/u/prathipm"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+<a href="https://portfoliopublisher.vercel.app/u/prathipm"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
 <a href="https://leetcode.com/u/prathipm/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 <a href="https://www.linkedin.com/in/prathip-m-883871399"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:prathip.tech@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
